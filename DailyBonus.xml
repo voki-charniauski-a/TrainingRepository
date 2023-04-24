@@ -9,7 +9,7 @@
 	<Calendar fromLevel="10" forcePage="Cat" >
 		<Page id="Cat" photo="DailyBonusPhoto_Cat" quest="chHall_MeetGuest">
 			<Reward day="1" type="MultiplyFishBoost" count="1"/>
-			<Reward day="2" type="BombAndLinvvveBoost" count="1"/>
+			<Reward day="2" type="BombAndLineBoost" count="1"/>
 			<Reward day="3" type="LightningBoost" count="1"/>
 			<Reward day="4" type="MultiplyFishBoost" count="1"/>
 			<Reward day="5" type="BombAndLineBoost" count="1"/>
